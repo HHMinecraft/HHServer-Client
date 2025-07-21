@@ -1,0 +1,13 @@
+name = "HH Server Client"
+author = "My_name_is_Lee"
+version = "BE1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6ed068c8f239e7f75920f1c80cd317e8adc2a41fc1d0fb7bb0bb85a7f5e279f6"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.193"
