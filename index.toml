@@ -1,9 +1,112 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".cph/.P_1799_数列.cpp_da49b10e4ebf54b7300f5653e1b6813a.prob"
+hash = "66db463b8261e72d76ea130cfc7dfd5b33cefda51710a5e825f661e42740d48b"
+
+[[files]]
 file = "LICENSE"
 hash = "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
 
 [[files]]
+file = "P_1799_数列.cpp"
+hash = "66edc5e357a7a71ccc77859b8b7b0bc0610de5394da787c73cf885f7df7b2fc8"
+
+[[files]]
 file = "README.md"
 hash = "23a49e0fa693b8c2e1929bc6c450c5e200d6361be11e53b7d251a96825f290df"
+
+[[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "f63a7e300c9556f4bcb76b7afd3aecc4d19d5323d24c48709083f5dafcbde09f"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
+metafile = true
+
+[[files]]
+file = "mods/bad-horse-fix.pw.toml"
+hash = "f3b52502b9fc87e067c0483d5e5d33d321fd15d4f47f9094fed4fa99cfe638a2"
+metafile = true
+
+[[files]]
+file = "mods/connector-extras.pw.toml"
+hash = "52e2cb54ee2933bf00e9b7886f47938a2dce1bf998293be2b38552083ffa5f9a"
+metafile = true
+
+[[files]]
+file = "mods/connector.pw.toml"
+hash = "9f920c5f1df2577cf374285e4aad4f2982a30ea2a3da1cf7ddaf25e04b3a2e31"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "7f25446123f66f57e7cc8e148155a3da39d85b31963c663b5b9be77fc1bacbe6"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "6028668d5c1c5e49797eb97bb597d818be33a67a939d0cc356a702460b504675"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "34fc0845727b08bc39e5b56444e0695b55f6a5471380f2d1d40c5548105da28e"
+metafile = true
+
+[[files]]
+file = "mods/dynamicsurroundingsfabric.pw.toml"
+hash = "4995541fb5da57ab155931be858b4c5073c9d9c8bd171e32e09d04fc336685df"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "5b34f5aff5000de94ed9e132315bad7288a72a9cbb8f902df2799a579433b7af"
+metafile = true
+
+[[files]]
+file = "mods/iris-flw-compat.pw.toml"
+hash = "bcf437595790e75fbabf9944792f1827fb6a687a2a41dc762621c8694b5205d3"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "dee709ea8dbbb9e75de4d53b1b9e1fd0e535abc0809c1f5aaadf783178cccf21"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "a1fb713df668ed21dda0602e99cb23b991c8faff841e130d7aae46258c3d6a45"
+metafile = true
+
+[[files]]
+file = "mods/sodium-shadowy-path-blocks.pw.toml"
+hash = "c5687771065e4a43266b38018cbdf142b216916dd73aa6532b8282e3d0f06b9c"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
+metafile = true
+
+[[files]]
+file = "mods/sodiumleafculling.pw.toml"
+hash = "a73dfb1bf6884ae786b2def0624dee9010bf121d0b5678b46043d9312f54b501"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "64c08a5e31478c04be05f962a7dff81cd979b60d648d02d21f7cc75b615fb954"
+metafile = true
+
+[[files]]
+file = "mods/stellarview.pw.toml"
+hash = "882e373ef0eb261f66d224ad3f4386ee15adebe5cdf7d70c7e2e5b86043eca6e"
+metafile = true
