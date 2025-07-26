@@ -1,0 +1,13 @@
+name = "Disturb Not My Dream"
+filename = "dnmd-1.0.0-1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/tbSwOtNT/versions/g3S7i0jL/dnmd-1.0.0-1.21.1.jar"
+hash-format = "sha512"
+hash = "9077b9c3a3486ae16a63394b34b78fc7da43c9defb3a0f94fbbbc833224858794389caad37baba01065c4c916d1fa731f12f593985de32fff7736c568b9435b9"
+
+[update]
+[update.modrinth]
+mod-id = "tbSwOtNT"
+version = "g3S7i0jL"

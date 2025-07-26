@@ -1,0 +1,13 @@
+name = "Liteminer"
+filename = "liteminer-neoforge-1.21.1-1.0.0+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VTnHoofC/versions/KdveTJrS/liteminer-neoforge-1.21.1-1.0.0%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "3bc1f749ccec756beefa37705f9697cef0f0f54fe597dd478d475b82646e3ffad83553ce070313a71b23d66aa85737d7e479d7d8257875c3e73443ed046acc3c"
+
+[update]
+[update.modrinth]
+mod-id = "VTnHoofC"
+version = "KdveTJrS"
