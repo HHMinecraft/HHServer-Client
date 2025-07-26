@@ -9,10 +9,6 @@ file = "LICENSE"
 hash = "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
 
 [[files]]
-file = "P_1799_数列.cpp"
-hash = "66edc5e357a7a71ccc77859b8b7b0bc0610de5394da787c73cf885f7df7b2fc8"
-
-[[files]]
 file = "README.md"
 hash = "23a49e0fa693b8c2e1929bc6c450c5e200d6361be11e53b7d251a96825f290df"
 
