@@ -1,0 +1,13 @@
+name = "Create Jet boots"
+filename = "create_jet_boots-1.21.1-1.1.3-6.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6e2b399c22661bfc1ebe8acd9958b797b6dcc708"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6646792
+project-id = 1246525
