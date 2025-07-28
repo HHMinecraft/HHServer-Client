@@ -1,0 +1,13 @@
+name = "Survive"
+filename = "Survive-1.21.1-10.1.8-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vg4qcCBb/versions/OEMcnTWg/Survive-1.21.1-10.1.8-NeoForge.jar"
+hash-format = "sha512"
+hash = "8d60be77a803cf3959f169c3aa69eb764b0567f17c9f7e155efd673dfa5c18dbeb4a2c56d9e7ca6d5eed12d5bdbfde141c706ad56faa23b54bf05ce6337b20d0"
+
+[update]
+[update.modrinth]
+mod-id = "vg4qcCBb"
+version = "OEMcnTWg"

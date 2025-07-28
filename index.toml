@@ -48,13 +48,33 @@ hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
+file = "mods/attributefix.pw.toml"
+hash = "586341de7078015cea16ffaf8e2e198a16c43b306d70bc439a15ea0298f9d3cb"
+metafile = true
+
+[[files]]
 file = "mods/bad-horse-fix.pw.toml"
 hash = "f3b52502b9fc87e067c0483d5e5d33d321fd15d4f47f9094fed4fa99cfe638a2"
 metafile = true
 
 [[files]]
+file = "mods/be-style-wither.pw.toml"
+hash = "cdcee5e9dea8ae916d1c116c6c4ca7491285bb5649863bd1e76b4470429e7601"
+metafile = true
+
+[[files]]
 file = "mods/better-archeology.pw.toml"
 hash = "fe25ab63de35303ce07384aac9c87ba25fe9dd5b714aa6d60efc47ab9575778c"
+metafile = true
+
+[[files]]
+file = "mods/betterdays.pw.toml"
+hash = "de47f720da923c1c601bd184f40379e8dd6db17619ec8705c8f885b70b060bae"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "293ec22e4e8342a9bd0f338505a14e3794b44cd7ca1e5278a86f41f99c69a3af"
 metafile = true
 
 [[files]]
@@ -65,6 +85,11 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "3c77cfac6baca0b34f29f071d47aed281cf0a27c5284145fff9b1461c24e26f8"
+metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
+hash = "5e0a875282f4abed66a2cccf7929488ebb5e88447d2bb3369e8ddc728fc66fc0"
 metafile = true
 
 [[files]]
@@ -80,6 +105,11 @@ metafile = true
 [[files]]
 file = "mods/copycats.pw.toml"
 hash = "bf463928645c586cb57a4e02533ee300af3931cf9db9233dae7efc1826643d41"
+metafile = true
+
+[[files]]
+file = "mods/corgilib.pw.toml"
+hash = "7cd10de618c7f46c1877d9d3e597699a7fcc02cf3982bba439ccbec95a37d0de"
 metafile = true
 
 [[files]]
@@ -233,6 +263,11 @@ hash = "6028668d5c1c5e49797eb97bb597d818be33a67a939d0cc356a702460b504675"
 metafile = true
 
 [[files]]
+file = "mods/data-anchor.pw.toml"
+hash = "7b7a61e6724eab42b13f406d235c9665e69425a182283dbba35fdd7bdfbd8745"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "34fc0845727b08bc39e5b56444e0695b55f6a5471380f2d1d40c5548105da28e"
 metafile = true
@@ -278,6 +313,16 @@ hash = "34342d4a5a9a4853c653cf768309d5b42f651250dc832bc239e746c736c70411"
 metafile = true
 
 [[files]]
+file = "mods/enhanced-celestials.pw.toml"
+hash = "3e79566bc57a86b74a7c647c0f6237a1bb1bbd442ad3d0a73e827e0841bb412e"
+metafile = true
+
+[[files]]
+file = "mods/enhancedvisuals.pw.toml"
+hash = "c57cdf1df8879aa2379f6978d415acabcb855e5fc70205d15c40c02d71a7b173"
+metafile = true
+
+[[files]]
 file = "mods/escalated.pw.toml"
 hash = "e79856a2e2cee31d7d0c9476b87a7f3fa99ed05c863b3372dc12171cc2b6bdfd"
 metafile = true
@@ -318,8 +363,18 @@ hash = "b83675c9b88fcd909a7e1a0d93f8bfb06431f8f9f249d690520ba11e738c4402"
 metafile = true
 
 [[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "dbd756dd9bb17e6ecebcf2d7052a67a2da1c7dd378bc2089bc154916080fe031"
+metafile = true
+
+[[files]]
 file = "mods/gui-followers.pw.toml"
 hash = "168a122218cdc1390b04eb06e699858e6dedf98a94c28ebeda5685b88e9b5e82"
+metafile = true
+
+[[files]]
+file = "mods/homeostatic.pw.toml"
+hash = "a49c1f178efb19cdeccc3a93e2aea5b1b2e5ceacbf6796154ba6c39b2c2ce322"
 metafile = true
 
 [[files]]
@@ -418,8 +473,18 @@ hash = "a1b19740a94f43405c4a9d303e9313911b3d12e48958699bfeaed3dafc57a24f"
 metafile = true
 
 [[files]]
+file = "mods/playerrevive.pw.toml"
+hash = "f4cb8f77c11deda2facac225c4cadd3833b80bee6fb4fe92cb1638c66f9f998e"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "dee709ea8dbbb9e75de4d53b1b9e1fd0e535abc0809c1f5aaadf783178cccf21"
+metafile = true
+
+[[files]]
+file = "mods/prickle.pw.toml"
+hash = "a69a8ba0d9e52361b1853cf59b2cf2a38b668b1d508a565f315f2fa30407f546"
 metafile = true
 
 [[files]]
@@ -430,6 +495,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "27721caca5a03b743bf25888e1d984142948069dace31453f103f94f7f24d2ce"
+metafile = true
+
+[[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "73b1e4f6608fcd396acc3e4e7aa753d314c8810ef4caf831ed93d9932d93f896"
 metafile = true
 
 [[files]]
@@ -463,13 +533,48 @@ hash = "64c08a5e31478c04be05f962a7dff81cd979b60d648d02d21f7cc75b615fb954"
 metafile = true
 
 [[files]]
+file = "mods/spice-of-life-onion.pw.toml"
+hash = "bce75bb35eb4719687f61b217bb57d83ef0e63040c291354c1b2369f3c508680"
+metafile = true
+
+[[files]]
 file = "mods/stellarview.pw.toml"
 hash = "882e373ef0eb261f66d224ad3f4386ee15adebe5cdf7d70c7e2e5b86043eca6e"
 metafile = true
 
 [[files]]
+file = "mods/survive.pw.toml"
+hash = "2959e825e0b2f764090213ced31a8425d162bf14630d6172954456ab43916ad7"
+metafile = true
+
+[[files]]
+file = "mods/the-hordes.pw.toml"
+hash = "e3e77fe3d58e09558a7b3c12e2a00dc6757734a3035fc277293632f581af308b"
+metafile = true
+
+[[files]]
+file = "mods/tough-as-nails.pw.toml"
+hash = "f615375185613c362892ab32d5359e9da1552345e92993feecb48853fa876711"
+metafile = true
+
+[[files]]
+file = "mods/unionlib.pw.toml"
+hash = "8dff89938e5b5efe7a363c8ba6c0b254920ab4eea77ff66acdddcb03fcbe955e"
+metafile = true
+
+[[files]]
+file = "mods/villages-and-pillages.pw.toml"
+hash = "10aa9b040d1f534fc318d905a84ba5e036d5c8d830f8ea1e549b672ae8917b14"
+metafile = true
+
+[[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "9ce52d07c0c3d146a2a44f8bc187138ce7a5558a4e3ab540c86234702b6de274"
+metafile = true
+
+[[files]]
+file = "mods/withering-heights.pw.toml"
+hash = "fdbe941abdcbcd464c4413681aab137e1065c2e8181d17627c4e9f66cf1a2aee"
 metafile = true
 
 [[files]]
@@ -480,4 +585,14 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "9703fd3d469cd29248eab476027ce855a404e2508cd234ed4e5c75beb2592061"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "d9c0c9209bac0b693af2a7c1e47ffb28d366bad19c91df31dc6d345fa75250a1"
+metafile = true
+
+[[files]]
+file = "mods/zombie-awareness.pw.toml"
+hash = "25f44960f8a331cafb3446c9388f959989aa01bd53a17a38766967f6cf20bb60"
 metafile = true
