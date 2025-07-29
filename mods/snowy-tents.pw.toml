@@ -1,0 +1,13 @@
+name = "Snowy Tents"
+filename = "snowy_tents-1.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dxqKAraL/versions/G3oNcmkI/snowy_tents-1.0.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "0bca063615c7807c3d8459525e9e4bee9ff380709f230cd983e235d1ed40aee0cf8ee180eb7b47e93e40e5bd0f7fede545b2ca0aa4ce5c23f0e1b1b7f92bdc87"
+
+[update]
+[update.modrinth]
+mod-id = "dxqKAraL"
+version = "G3oNcmkI"

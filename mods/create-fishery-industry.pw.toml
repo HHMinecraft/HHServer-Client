@@ -1,13 +1,13 @@
 name = "Create: Fishery Industry"
-filename = "createfisheryindustry-4.0.9.jar"
+filename = "createfisheryindustry-4.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/u8OJnscr/versions/mzw3yG4y/createfisheryindustry-4.0.9.jar"
+url = "https://cdn.modrinth.com/data/u8OJnscr/versions/p7Cs6mZP/createfisheryindustry-4.1.0.jar"
 hash-format = "sha512"
-hash = "e8823d7731083127b6711979d8c7b0e37610faaa146a512155b81444b9519bb6eef900094bd03658b285d4b5d737c0070bae7a264292c8bf0327df5f70d589d4"
+hash = "daef9ecfc9fee539de23827a851fe264ec0ed4435360d52edd4dd01a1173289e1162d1954ade57f8fde7a12e76dbb3286efbd025b3fc1ba7db4629f8df6a1fc2"
 
 [update]
 [update.modrinth]
 mod-id = "u8OJnscr"
-version = "mzw3yG4y"
+version = "p7Cs6mZP"

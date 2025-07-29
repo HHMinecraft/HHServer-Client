@@ -1,0 +1,13 @@
+name = "Create: Classic Blaze Enchanter"
+filename = "create-classic-blaze-enchanter-1.1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2d259f550771b12b7b7682dfe97c4bc34a9a4850"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6652880
+project-id = 1242892

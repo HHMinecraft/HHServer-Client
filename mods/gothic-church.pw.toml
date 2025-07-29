@@ -1,0 +1,13 @@
+name = "Gothic Church"
+filename = "gothic_church-1.0.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a2f668d3bcbfc8a46f60495cc5cca7373429a559"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6442338
+project-id = 1153570

@@ -1,0 +1,13 @@
+name = "Epic Terrain"
+filename = "epicterrain-0.1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7qSJGSHp/versions/fR0foOLP/epicterrain-0.1.4.jar"
+hash-format = "sha512"
+hash = "5fb91cd073e57996ebd662ad8e2a92979d283a73cf526fc29aec313697fb84ba3f813d8a31a72656d08ed7d94b924c5cf71802836ba7a66e94ef59a8dafe64a3"
+
+[update]
+[update.modrinth]
+mod-id = "7qSJGSHp"
+version = "fR0foOLP"

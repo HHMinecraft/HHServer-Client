@@ -1,0 +1,13 @@
+name = "Villager Library"
+filename = "villager_library-1.0.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fd264fa5df6b2cd29d19b5353f2002ad07155fbc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6467393
+project-id = 1248009
