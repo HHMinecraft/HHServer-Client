@@ -1,13 +1,16 @@
 name = "HH Server Client"
 author = "My_name_is_Lee"
-version = "BE1.0.0"
+version = "BE1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b8d98b399f27dcf17df22d3e40d4f2eed7044109cb91ba242b399e1db1ddb3cc"
+hash = "613cdc2c759bae652ec1aaed0d16d1881c73845ff3636535deb72893a7375fbf"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.193"
+neoforge = "21.1.196"
+
+[options]
+datapack-folder = "config/openloader/pack/"
