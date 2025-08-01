@@ -1,6 +1,6 @@
 name = "Countered's Settlement Roads"
 filename = "settlement-roads-2.0.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/rrAGfOzL/versions/EZ7uL9fO/settlement-roads-2.0.1.jar"

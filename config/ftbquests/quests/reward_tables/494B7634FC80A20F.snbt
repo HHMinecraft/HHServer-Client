@@ -1,0 +1,19 @@
+{
+	icon: {
+		id: "minecraft:water_bucket"
+	}
+	id: "494B7634FC80A20F"
+	loot_size: 2
+	order_index: 0
+	rewards: [
+		{
+			count: 2
+			id: "4EB1DEF7D7E7199B"
+			item: {
+				count: 1
+				id: "minecraft:water_bucket"
+			}
+		}
+		{ id: "567863B266F59F38", item: { count: 1, id: "homeostatic:purified_water_bucket" } }
+	]
+}

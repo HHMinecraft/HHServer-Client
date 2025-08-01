@@ -1,0 +1,12 @@
+{
+	chapter.438B6930A6407C28.title: "开始你的旅途"
+	quest.26526E7B5038359C.quest_desc: ["&l你是一个富豪,在野外买了一个豪宅,刚赶到,没成想世界进入冰河时代你只能带着自己防寒大衣独自生存下去&m编不下去了hh"]
+	quest.26526E7B5038359C.quest_subtitle: "注意体温!"
+	quest.67CE4BF7C664FB16.quest_subtitle: "水资源不够了!"
+	quest.67CE4BF7C664FB16.title: "无限水还是纯净水"
+	quest.6EAD1C0B1B7B40BF.quest_desc: ["你发现自己并没有干净的水源,喝生水会生病,于是你打算把你的帽子那个并没有什么用的内层扣下来,并用一些扣下来的细细碎碎的边角料做出几个滤水网"]
+	quest.6EAD1C0B1B7B40BF.quest_subtitle: "水是生命之源"
+	quest.6EAD1C0B1B7B40BF.title: "保温还是保水"
+	reward_table.494B7634FC80A20F.title: "水与水"
+	task.1FDEC106CDA4BACB.title: "欢迎来到冰雪之地"
+}

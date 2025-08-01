@@ -1,6 +1,6 @@
 name = "Disturb Not My Dream"
 filename = "dnmd-1.0.0-1.21.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/tbSwOtNT/versions/g3S7i0jL/dnmd-1.0.0-1.21.1.jar"

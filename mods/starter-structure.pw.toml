@@ -1,6 +1,6 @@
 name = "Starter Structure"
 filename = "starterstructure-1.21.1-4.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/gi80Z09B/versions/ogrAh9O2/starterstructure-1.21.1-4.2.jar"
