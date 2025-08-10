@@ -1,0 +1,13 @@
+name = "Arboria Saplings"
+filename = "arboria_saplings_v1.1.3.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TnDsxSIu/versions/sXKpxcol/arboria_saplings_v1.1.3.zip"
+hash-format = "sha512"
+hash = "56535d9d1d9d6b51d330cecae32ff4f1a00c7523562f76f99ff7d2917f2fa76a891ff60b19ad4fff15286be065076c2e2d0054a6d6d257174d19d137a68953ee"
+
+[update]
+[update.modrinth]
+mod-id = "TnDsxSIu"
+version = "sXKpxcol"

@@ -1,0 +1,13 @@
+name = "TNT Slimes"
+filename = "TNTSlimes-1.21.1-7.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2uSUoGpj/versions/UgSsu90n/TNTSlimes-1.21.1-7.0.2.jar"
+hash-format = "sha512"
+hash = "ba6e94d869c410ef0f8919e638fee12f14546bd29eb765f810e3e8b89cbe743ad2f273b106da32ef3379792a5990aa1529b0b8b565532aa1c33702b243cf740a"
+
+[update]
+[update.modrinth]
+mod-id = "2uSUoGpj"
+version = "UgSsu90n"

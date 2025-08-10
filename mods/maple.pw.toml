@@ -1,0 +1,13 @@
+name = "Maple"
+filename = "Maple-1.4.11-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/f72LiOZm/versions/S2TrR4Zv/Maple-1.4.11-1.21.1-NeoForge.jar"
+hash-format = "sha512"
+hash = "015c3e36b141f5e89ee6305fdd955a836414ff7c75cd35ec1d2058e4290484077d368ebf189eae79d6b9c4f0478bf214d3ff3bab5f7f03bc0370ea71f3d1543c"
+
+[update]
+[update.modrinth]
+mod-id = "f72LiOZm"
+version = "S2TrR4Zv"

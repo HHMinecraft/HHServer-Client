@@ -1,0 +1,13 @@
+name = "Nether Skeletons"
+filename = "netherskeletons-5.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/M36xhGy8/versions/zQcVMPwP/netherskeletons-5.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "d020ddb1e9643747eb9f2bc731d8018439747c83c0a85aec3f043c0c238b00a030bfb75291992af81f78e6657990ec909f89d48f7e1655b08623e1474f95fb39"
+
+[update]
+[update.modrinth]
+mod-id = "M36xhGy8"
+version = "zQcVMPwP"

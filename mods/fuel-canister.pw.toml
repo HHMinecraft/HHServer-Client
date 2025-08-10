@@ -1,0 +1,13 @@
+name = "Fuel Canister"
+filename = "fuel_canister-1.21-neoforge-1.9.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lg1c9EtL/versions/hPXvpytS/fuel_canister-1.21-neoforge-1.9.1.jar"
+hash-format = "sha512"
+hash = "74a52ad286985aba5574ed7c7dbb1bab233f765e7587206854a0e77e7d33213aaee5fdad11088b463e6476053c192ec1b34866548cdfa64040f4d8ce88672b6e"
+
+[update]
+[update.modrinth]
+mod-id = "lg1c9EtL"
+version = "hPXvpytS"

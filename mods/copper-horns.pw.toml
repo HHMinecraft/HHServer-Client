@@ -1,0 +1,13 @@
+name = "Return Copper Horns"
+filename = "copper-horns-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ile7qLGI/versions/CckezDPl/copper-horns-1.0.4.jar"
+hash-format = "sha512"
+hash = "c8f6dee6266b71f21207ab3005275b3827d7ef34ab4510e3d019bf55830b5becd3eecfe4c73de7dd84c8dd6522a38fef061b15e4f64742838003bd07884217cf"
+
+[update]
+[update.modrinth]
+mod-id = "ile7qLGI"
+version = "CckezDPl"

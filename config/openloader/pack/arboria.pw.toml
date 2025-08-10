@@ -1,0 +1,13 @@
+name = "Arboria: Biome Enhancement"
+filename = "arboria_v1.1.5.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IuVnevHX/versions/Pme2mCo9/arboria_v1.1.5.zip"
+hash-format = "sha512"
+hash = "f49f4897a1b8a0f318ffc985ed24ec499162bf684ca28f4106f85c9d7d722e3327cacee84ab1a422515b34060110b63946f397b7dda84be2a518328f85cdeb4a"
+
+[update]
+[update.modrinth]
+mod-id = "IuVnevHX"
+version = "Pme2mCo9"

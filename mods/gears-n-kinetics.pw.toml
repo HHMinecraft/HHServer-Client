@@ -1,0 +1,13 @@
+name = "Create: Gears n' Kinetics"
+filename = "GnKinetics-1.21.1-1.0k.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gEWECBVL/versions/PW11kP23/GnKinetics-1.21.1-1.0k.jar"
+hash-format = "sha512"
+hash = "b9fe019e4b09596ea99b4eb0ea6b4fa41b06d0ea5264c20b13b81ce45106707ae91e88c87672b6d8445ed74cf1781c2c7223ef6ab549b980966c527ff0dbf94a"
+
+[update]
+[update.modrinth]
+mod-id = "gEWECBVL"
+version = "PW11kP23"

@@ -1,12 +1,12 @@
 name = "HH Server Client"
 author = "My_name_is_Lee"
-version = "BE1.0.0"
+version = "BE1.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "36b23b476cefe4e4a1ed7bbf4a66681ae874b6a58cf3f1d2390cdefe472d1114"
+hash = "5cb822c9e950e28bbcc1f3ebb17956700690088b87c79d9e1da6da73cda8ec97"
 
 [versions]
 minecraft = "1.21.1"
